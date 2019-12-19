@@ -1,7 +1,7 @@
 /**
  *  First Test 21.02.2019
  *  entering some changes to test git
- *  Version 0.1
+ *  Version 0.2
  */
 
 var mytext= "Hello World";
